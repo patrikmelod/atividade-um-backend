@@ -1,0 +1,13 @@
+{
+  "name": "atividade-um-backend",
+  "version": "1.0.0",
+  "description": "Atividade 01 desenvolvimento backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js",
+    "test": "index.js"
+  },
+  "author": "Patrik Melo Dias",
+  "license": "ISC",
+  "type": "module"
+}
